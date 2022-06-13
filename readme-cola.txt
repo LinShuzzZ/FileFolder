@@ -1,1 +1,1 @@
-该目录是用于测试仓库 将当前的文件夹设置为git的一个文件仓库
+This is a file to text git performance
